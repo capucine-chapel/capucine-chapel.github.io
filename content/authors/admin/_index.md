@@ -48,7 +48,7 @@ title: Capucine Chapel
 
 I am a Post-Doctoral Fellow in Economics at [ERUDITE](https://erudite.univ-paris-est.fr/) since October 2023.
 
-I am on the 2024 job market.
+I am on the 2023/2024 job market.
 
 My research focuses on the analysis of sustainable development trajectories, with the aim of understanding the mechanisms, challenges and opportunities for steering societies towards a more sustainable future. My research falls within the fields of environmental, development and urban economics.
 
