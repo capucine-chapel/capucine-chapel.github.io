@@ -17,8 +17,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 projects: []
-publication: "Work in Progress"
-publication_short: ""
+publication: "Submitted to *Journal of Environmental Economics and Management*"
+publication_short: "Submitted to *Journal of Environmental Economics and Management*"
 publication_types:
 - article-journal
 # publishDate: "2017-01-01T00:00:00Z"

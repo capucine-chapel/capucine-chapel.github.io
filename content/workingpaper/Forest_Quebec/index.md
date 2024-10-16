@@ -3,9 +3,9 @@ abstract:
 authors:
 - admin
 - Jean Dubé
-- Mohamed Hilal
 - Julie Le Gallo
-- Javier Velazquez
+- Mohamed Hilal
+- François Des Rosiers
 date: "2023-11-01T00:00:00Z"
 doi: ""
 featured: false
@@ -17,8 +17,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 projects: []
-publication: "Work in Progress"
-publication_short: ""
+publication: "Submitted to *Ecological Economics*"
+publication_short: "Submitted to *Ecological Economics*"
 publication_types:
 - article-journal
 # publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ tags:
 - Real estate
 - Spatial Statistics
 
-title: Do Real Estate Developers Benefit from Preserving Forest and Green Spaces in New Developments?
+title: How Much is a Direct and Indirect Access to a Park Worth? An Application for Single-family Houses using a Causal Spatio-temporal Matching Approach
 
 url_code: ""
 url_dataset: ""
@@ -43,4 +43,5 @@ url_source: ""
 url_video: ""
 ---
 
-The balance between urban development and forest and green spaces conservation is of paramount importance. Such balance can be present and argued to private developers based on a costs and benefits analysis of preserving forest areas and green spaces in urban spaces. This raises the question of what is the economic value for such amenities. To explore the value of urban amenities, the project proposes an approach based on individual spatial data, i.e. residential transactions. Buildings and transactions are located with a high degree of accuracy, which will be useful in identifying similar/comparable properties and areas for statistical analysis. In particular, this approach will make it possible to identify transactions carried out around "treatment" zones (i.e. close to protected woodland areas) and "control" zones (i.e. at a greater distance from woodland areas) depending on the characteristics of the built environment, but also of individual properties. The methodological approach is to divide the transactions into two distinct groups: i) a first group located in close proximity to the protected woodlands (direct access from the backyard or front yard); and ii) a second group located in close proximity to the protected woodlands but without direct access (one to two blocks away). Cross-comparison of price differences will establish a value effect that varies with the degree of exposure.
+Urban parks and green spaces are well known for their positive social and environmental impacts so that proximity to such infrastructures is usually internalized into higher real estate values. This paper proposes a careful spatio-temporal causal identification strategy to measure the willingness-to-pay (WTP) of exposure to different types of parks with particular attention on spatial confounding. Based on single-family house transactions in Qu´ebec City between 2004 and 2020, the estimation results suggest that the price premium differs according to the types of parks, proximity, and submarkets. The submarket of the first quantile transaction price displays a negative price premium, while a positive premium is found for the last quantile sale price, suggesting the presence of environmental inequities.
+

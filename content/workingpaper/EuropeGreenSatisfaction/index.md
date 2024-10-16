@@ -15,8 +15,8 @@ links:
 #   url: http://example.org
 projects:
 - internal-project
-publication: "Under Review"
-publication_short: "Under Review"
+publication: "Submitted to *Ecological Economics*"
+publication_short: "Submitted to *Ecological Economics*"
 publication_types: ["3"]
 
 
