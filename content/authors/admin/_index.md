@@ -20,8 +20,8 @@ interests:
 last_name: Chapel
 name_pronunciation: ""
 organizations:
-- name: ERUDITE - Université Paris-Est Créteil
-  url: https://erudite.univ-paris-est.fr
+- name: CERDI, Université Clermont Auvergne, CNRS, IRD
+  url: https://cerdi.uca.fr/#/
 role: Post-Doctoral Fellow
 
 social:
@@ -46,9 +46,9 @@ superuser: true
 title: Capucine Chapel
 ---
 
-I am a Post-Doctoral Fellow in Economics at [ERUDITE](https://erudite.univ-paris-est.fr/) since October 2023.
+I am a Post-Doctoral Fellow in Economics at [CERDI](https://cerdi.uca.fr/#/) since October 2024.
 
-I am on the 2023/2024 job market.
+I am on the 2024/2025 job market.
 
 My research focuses on the analysis of sustainable development trajectories, with the aim of understanding the mechanisms, challenges and opportunities for steering societies towards a more sustainable future. My research falls within the fields of environmental, development and urban economics.
 
