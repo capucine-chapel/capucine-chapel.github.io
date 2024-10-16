@@ -214,12 +214,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Créteil
+      city: Clermont-Ferrand
       country: FRANCE
       country_code: FR
-      postcode: "94100"
+      postcode: "63000"
       region: ""
-      street: Route de Choisy, Mail des mèches
+      street: 26 avenue Léon Blum
     # appointment_url: https://calendly.com
     # autolink: true
     # contact_links:
@@ -236,10 +236,10 @@ sections:
     #   link: https://zoom.com
     #   name: Zoom Me
     coordinates:
-      latitude: "48.788374"
-      longitude: "2.449967"
-    directions: Office 216 on Floor 2
-    email: capucine.chapel@laposte.net
+      latitude: "45.7797"
+      longitude: "3.1027"
+    directions: Office 411 on Floor 4
+    email: capucinechapel.pro@gmail.com
     form:
       formspree:
         id: null
