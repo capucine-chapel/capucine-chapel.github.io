@@ -1,6 +1,5 @@
 ---
 abstract: 
-Green spaces provide a variety of ecosystem services to society and the environment. This paper provides an overview of the literature on the valuation of green spaces, focusing on their advantages and limitations. We conclude with a number of challenges ahead.
 authors:
 - admin
 - Julie Le Gallo
