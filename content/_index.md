@@ -236,8 +236,8 @@ sections:
     #   link: https://zoom.com
     #   name: Zoom Me
     coordinates:
-      latitude: "45.7756"
-      longitude: "3.0933"
+      latitude: "45.769884"
+      longitude: "3.093612"
     directions: Office 411 on Floor 4
     email: capucinechapel.pro@gmail.com
     form:
