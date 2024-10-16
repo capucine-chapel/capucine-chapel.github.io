@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: In the face of the housing crisis and pressures on property prices, this study assesses the impact of social housing on property prices in mainland France. Our results show a modestly positive effect from the introduction of social housing, with notable variations depending on the type of project.Acquisitions without work resulted in a -4% drop in prices, while the effect was more marked in priority neighborhoods,where stigmatization is less prevalent. These results underline the importance of supporting social housing projects with appropriate amenities and proactive communication to maximize their economic and social benefits.
 authors:
 - admin
 - Camille Regnier
