@@ -5,8 +5,7 @@ theme: "theme-academic-cv"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Capucine Chapel # Website name
-baseURL: 'https://capucine-chapel.github.io/capucine-chapel.github.io /' # Website URL
-#https://capucine-chapel.netlify.app/
+baseURL: 'https://capucine-chapel.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
