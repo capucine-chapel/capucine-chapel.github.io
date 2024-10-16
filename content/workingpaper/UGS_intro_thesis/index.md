@@ -3,7 +3,7 @@ abstract:
 authors:
 - admin
 - Julie Le Gallo
-- Mohamed Hillal
+- Mohamed Hilal
 date: "2024-10-01T00:00:00Z"
 doi: ""
 featured: false
