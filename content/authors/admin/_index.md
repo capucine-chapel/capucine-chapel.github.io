@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/0000-0003-4309-3924
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Economics
+  - Urban & Territorial Economics
+  - Development Economics
 
 education:
   - area: PhD Artificial Intelligence
