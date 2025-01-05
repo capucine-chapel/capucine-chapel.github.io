@@ -112,14 +112,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
+        description: ''
+        percent: 95
+        icon: r-project
+      - name: STATA 
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
         icon: chart-bar
+      - name: Python
+        description: ''
+        percent: 50
+        icon: python
       - name: SQL
         description: ''
         percent: 40
@@ -128,18 +132,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Board game
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Tennis
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+    #  - name: Photography
+    #    description: ''
+    #    percent: 80
+    #    icon: camera
 
 languages:
   - name: English
