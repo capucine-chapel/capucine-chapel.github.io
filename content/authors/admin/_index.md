@@ -115,7 +115,7 @@ skills:
       - name: R
         description: ''
         percent: 95
-        icon: mdi-language-r
+        icon: r
       - name: STATA 
         description: ''
         percent: 80
@@ -135,11 +135,11 @@ skills:
       - name: Board game
         description: ''
         percent: 60
-        icon: dice-d20
+        icon: :game_die:
       - name: Tennis
         description: ''
         percent: 100
-        icon: tennis-ball
+        icon: :tennis:
     #  - name: Photography
     #    description: ''
     #    percent: 80
