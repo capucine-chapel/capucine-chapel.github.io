@@ -57,7 +57,11 @@ education:
     date_start: 2020-10-01
     date_end: 2023-12-08
     summary: |
-      Thesis on "_Three essays on the economic value of recreational amenities provided by green spaces_". Supervised by [Prof Julie Le Gallo](https://sites.google.com/site/legallopage/) and [Mohamed Hilal](https://cv.hal.science/mohamed-hilal). 
+      Title: "_Three essays on the economic value of recreational amenities provided by green spaces_". 
+      Supervised by [Prof Julie Le Gallo](https://sites.google.com/site/legallopage/) and [Mohamed Hilal](https://cv.hal.science/mohamed-hilal).
+      Thesis Defense: December 8, 2023
+      Jury Members: Florent Sari, Rosella Nicolini, Julien Salanié, Jeanne Dachary-Bernard, Vincent Viguié 
+      Agreenium International Research School doctoral programme
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/2023UBFCG009'
@@ -69,20 +73,17 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Econometrics
+      - Development economics
   - area: BSc in Economics
     institution: Université Clermont-Auvergne
     date_start: 2015-09-01
     date_end: 2020-08-31
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Microeconomics
+      - Macroeconomics
+      - Statistics
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
