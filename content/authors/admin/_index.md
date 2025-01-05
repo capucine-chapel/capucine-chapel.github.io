@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:capucinechapel.pro@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
+ # - icon: brands/instagram
+ #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/capucine-chapel
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/capucine-chapel-a17a43130
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4309-3924
 
 interests:
   - Artificial Intelligence
