@@ -57,14 +57,14 @@ education:
     date_start: 2020-10-01
     date_end: 2023-12-08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "_Three essays on the economic value of recreational amenities provided by green spaces_". Supervised by [Prof Julie Le Gallo](https://sites.google.com/site/legallopage/) and [Mohamed Hilal](https://cv.hal.science/mohamed-hilal). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://theses.fr/2023UBFCG009'
+  - area: MSc in Development economics
+    institution: Université Clermont-Auvergne
+    date_start: 2018-09-01
+    date_end: 2020-08-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Economics
+    institution: Université Clermont-Auvergne
+    date_start: 2015-09-01
+    date_end: 2020-08-31
     summary: |
       GPA: 3.4/4.0
       
