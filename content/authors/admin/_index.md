@@ -135,11 +135,11 @@ skills:
       - name: Board game
         description: ''
         percent: 60
-        icon: :game_die:
+        icon: 🎲
       - name: Tennis
         description: ''
         percent: 100
-        icon: :tennis:
+        icon: 🎾
     #  - name: Photography
     #    description: ''
     #    percent: 80
