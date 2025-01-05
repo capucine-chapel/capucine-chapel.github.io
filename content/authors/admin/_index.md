@@ -11,7 +11,7 @@ last_name: Chapel
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: Post-doctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CERDI
+  - name: CERDI, Université Clermont Auvergne, CNRS, IRD
     url: https://cerdi.uca.fr/#/admin
 
 # Social network links
