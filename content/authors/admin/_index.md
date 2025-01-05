@@ -84,28 +84,27 @@ education:
       - Macroeconomics
       - Statistics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Researcher
+    company_name: CERDI
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-10-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+      - Theme: Volcano Economics
+      - Project PROXVOLC: "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
+      - Collaboration: Pascale Phélinas, Michaël Goujon, Sébastien Marchand, and Johanna Choumert
+  - position: Postdoctoral Researcher
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-10-01
+    date_end: 2024-09-30
+    summary: |2-
+      - Theme: Social Housing
+      - Project DYNAPUR 
+      - Supervisors: Camille REGNIER and Kévin FOURREY
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
