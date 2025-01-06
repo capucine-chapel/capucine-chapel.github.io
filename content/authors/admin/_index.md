@@ -36,6 +36,7 @@ profiles:
  # - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
   - icon: cv
+    icon_pack: ai
     url: uploads/resume.pdf
   - icon: brands/github
     url: https://github.com/capucine-chapel
@@ -191,18 +192,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Intelligence artificielle géospatiale au service du développement international
+  - title: Geospatial artificial intelligence for international development
     url: https://ferdi.fr/ihedd/l-intelligence-artificielle-geospatiale-au-service-du-developpement-international
     date: '2024-12-13'
     awarder: IHEDD
     icon: ''
     summary: |
       Learned:
-      - Manipulation et analyse de données spatiales : Utilisation avancée des bibliothèques Python pour la manipulation, visualisation, et analyse statistique des données géospatiales.
-      - Machine Learning appliqué aux données spatiales : Compréhension des concepts centraux et mise en œuvre de méthodes avancées telles que ElasticNet, Random Forest, et XGBoost.
-      - Deep Learning pour l’analyse d’images satellites : Apprentissage des concepts fondamentaux, mise en œuvre de réseaux de neurones classiques et utilisation d’architectures adaptées aux images satellitaires.
-      - Transfer Learning : Importation et spécialisation de modèles pré-entraînés pour des tâches spécifiques en traitement d’images géospatiales.
-      - Fusion de données : Approches combinant des informations issues d’images satellitaires et de données numériques pour produire des cartes d’indicateurs complexes.
+      - **Spatial Data Manipulation and Analysis:** Advanced use of Python libraries for manipulating, visualizing, and performing statistical analysis on geospatial data.
+      - **Machine Learning Applied to Spatial Data:** Understanding core concepts and implementing advanced methods such as ElasticNet, Random Forest, and XGBoost.
+      - **Deep Learning for Satellite Image Analysis:** Learning fundamental concepts, implementing classical neural networks, and using architectures tailored for satellite imagery.
+      - **Transfer Learning:** Importing and fine-tuning pre-trained models for specific tasks in geospatial image processing.
+      - **Data Fusion:** Combining information from satellite images and numerical data to create complex indicator maps.
 #  - title: Blockchain Fundamentals
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
