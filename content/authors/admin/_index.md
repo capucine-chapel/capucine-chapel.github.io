@@ -36,7 +36,7 @@ profiles:
  # - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
   - icon: cv
-    icon_pack: ai
+    icon_pack: academicons
     url: uploads/resume.pdf
   - icon: brands/github
     url: https://github.com/capucine-chapel
@@ -147,8 +147,7 @@ skills:
       - name: R
         description: ''
         percent: 95
-        icon: r-project
-        icon_pack: fab 
+        icon: rstudio
       - name: STATA 
         description: ''
         percent: 80
