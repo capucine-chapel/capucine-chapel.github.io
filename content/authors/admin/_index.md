@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
  # - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
-  - icon: cv
+  - icon: academicons/cv
     icon_pack: ai
     url: uploads/resume.pdf
   - icon: brands/github
