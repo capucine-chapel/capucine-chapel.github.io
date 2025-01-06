@@ -168,7 +168,7 @@ skills:
       - name: Board game
         description: ''
         percent: 60
-        icon: 🎲
+        icon: dice
       - name: Tennis
         description: ''
         percent: 100
