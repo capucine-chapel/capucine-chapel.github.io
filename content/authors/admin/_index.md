@@ -147,7 +147,8 @@ skills:
       - name: R
         description: ''
         percent: 95
-        icon: r
+        icon: r-project
+        icon_pack: fab 
       - name: STATA 
         description: ''
         percent: 80
