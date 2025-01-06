@@ -198,11 +198,11 @@ Certification:
     icon: ''
     summary: |
       Learned:
-      - **Manipulation et analyse de données spatiales :** Utilisation avancée des bibliothèques Python pour la manipulation, visualisation, et analyse statistique des données géospatiales.
-      - **Machine Learning appliqué aux données spatiales :** Compréhension des concepts centraux et mise en œuvre de méthodes avancées telles que ElasticNet, Random Forest, et XGBoost.
-      - **Deep Learning pour l’analyse d’images satellites :** Apprentissage des concepts fondamentaux, mise en œuvre de réseaux de neurones classiques et utilisation d’architectures adaptées aux images satellitaires.
-      - **Transfer Learning :** Importation et spécialisation de modèles pré-entraînés pour des tâches spécifiques en traitement d’images géospatiales.
-      - **Fusion de données :** Approches combinant des informations issues d’images satellitaires et de données numériques pour produire des cartes d’indicateurs complexes.
+      - Manipulation et analyse de données spatiales : Utilisation avancée des bibliothèques Python pour la manipulation, visualisation, et analyse statistique des données géospatiales.
+      - Machine Learning appliqué aux données spatiales : Compréhension des concepts centraux et mise en œuvre de méthodes avancées telles que ElasticNet, Random Forest, et XGBoost.
+      - Deep Learning pour l’analyse d’images satellites : Apprentissage des concepts fondamentaux, mise en œuvre de réseaux de neurones classiques et utilisation d’architectures adaptées aux images satellitaires.
+      - Transfer Learning : Importation et spécialisation de modèles pré-entraînés pour des tâches spécifiques en traitement d’images géospatiales.
+      - Fusion de données : Approches combinant des informations issues d’images satellitaires et de données numériques pour produire des cartes d’indicateurs complexes.
 #  - title: Blockchain Fundamentals
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
@@ -225,4 +225,10 @@ Certification:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Post-Doctoral Fellow in Economics at [CERDI](https://cerdi.uca.fr/#/) since October 2024.
+
+I am on the 2024/2025 job market.
+
+My research focuses on the analysis of sustainable development trajectories, with the aim of understanding the mechanisms, challenges and opportunities for steering societies towards a more sustainable future. My research falls within the fields of environmental, development and urban economics.
+
+I have a strong interest in applied microeconometrics, spatial analysis and data processing.
