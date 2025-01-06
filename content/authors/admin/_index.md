@@ -95,7 +95,7 @@ work:
       - Project PROXVOLC: "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
       - Collaboration: Pascale Phélinas, Michaël Goujon, Sébastien Marchand, and Johanna Choumert
   - position: Postdoctoral Researcher
-    company_name: X
+    company_name: ERUDITE
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
@@ -104,6 +104,38 @@ work:
       - Theme: Social Housing
       - Project DYNAPUR 
       - Supervisors: Camille REGNIER and Kévin FOURREY
+  - position: Ph.D. Researcher
+    company_name: CESAER
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-10-01
+    date_end: 2023-09-30
+    summary: |2-
+      - Theme: Economic evaluations of green spaces
+      - Project PubPrivLand 
+      - Supervisors: Julie Le Gallo and Mohamed Hilal
+      - Study dimensions and scales: urban/rural, France/Spain/Europe, Real estate/tourism market
+      - Methods: causal inference (Augmented Inverse Probability Weighted, Generalized Propensity Score Matching)
+  - position: Research Assistant
+    company_name: FERDI
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-08-31
+    summary: |2-
+      - Literature review on the taxation of renewable natural resources
+      - Reports for a steering committee and webinars on challenges of internal resource mobilization in the face of the COVID-19 crisis
+  - position: Research Assistant
+    company_name: Laboratory of Economics of Orléans
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-07-30
+    summary: |2-
+      - Creation of databases and statistical analyses on STATA
+      - Report on the impact of environmental regulations on trade
+      - Organization of AFSE 2019
+      - Supervisors: Camelia Turcu and Thaís Núñez-Rocha
 
 
 # Skills
