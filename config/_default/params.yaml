@@ -59,7 +59,7 @@ features:
   privacy_pack:
     enable: false
 
-#icon
+#Extensions
 extensions:
   academicons:
     enable: true
