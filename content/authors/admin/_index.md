@@ -190,7 +190,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Certification:
+awards:
   - title: Intelligence artificielle géospatiale au service du développement international
     url: https://ferdi.fr/ihedd/l-intelligence-artificielle-geospatiale-au-service-du-developpement-international
     date: '2024-12-13'
