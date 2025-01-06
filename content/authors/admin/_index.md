@@ -3,7 +3,7 @@
 title: Capucine Chapel
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+#name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Capucine
@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
  # - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
- # - icon: brands/instagram
- #  url: https://www.instagram.com/
+  - icon: cv
+    url: uploads/resume.pdf
   - icon: brands/github
     url: https://github.com/capucine-chapel
   - icon: brands/linkedin
