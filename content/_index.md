@@ -58,7 +58,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - workingpaper
+          - event
         exclude_featured: false
     design:
       view: citation
