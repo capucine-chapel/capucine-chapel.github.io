@@ -28,44 +28,45 @@ type: page
 
 ### Microeconomics: Intertemporal Behavior and Choices 
 *2024 – University Paris-Est Créteil, Créteil, France*   
-Degree Level: Undergraduate (Economics Bachelor's 3rd Year)  
-Hours: 30 hours  
+Student Profile: Bachelor students in Economics (3rd Year) 
+Total Teaching Hours: 30 hours  
 Role: Teaching Assistant
 
-### Microeconomics  
-**Université Clermont-Auvergne**  
-*2017 – 2019 – Clermont-Ferrand, France*  
-- **Course**: Microeconomics (22 hours in Bachelor's Degree, 2nd year, in Economic and Social Administration)  
-  *Topics*: Producer and consumer theory.
+### Microeconomics: Producer and consumer theory
+*2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
+Student Profile: Bachelor students in Economic and Social Administration (2nd Year) 
+Total Teaching Hours: 22 hours  
+Role: University Tutor
 
-### Macroeconomics  
-**Université Clermont-Auvergne**  
-*2017 – 2019 – Clermont-Ferrand, France*  
-- **Course**: Macroeconomics (18 hours in Bachelor's Degree, 1st year, in Economics)  
-  *Topics*: Major functions and macroeconomic equilibrium.
+### Macroeconomics : Major functions and macroeconomic equilibrium  
+*2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
+Student Profile: Bachelor students in Economic (1st Year) 
+Total Teaching Hours: 18 hours  
+Role: University Tutor
 
 ---
 
 ## Quantitative courses
 
 ### Econometrics  
-**Université Bourgogne Franche-Comté**  
-*2021 – 2023 – Dijon, France*  
-- **Course**: Econometrics with R (90 hours in Bachelor's Degree, 3rd year, in Economics)  
-  *Topics*: Descriptive statistics, simulations, simple and multiple linear regressions with R.
+*2021 – 2023 – Université Bourgogne Franche-Comté, Dijon, France*   
+Student Profile: Bachelor students in Economics (3rd Year) 
+Total Teaching Hours: 90 hours  
+Role: Teaching Assistant
 
-  ### Statistics  
-**Institut Agro Dijon**  
-*2021 – 2023 – Dijon, France*  
-- **Course**: Statistics (40 hours in Master 1 Agricultural Engineering)  
-  *Topics*: ANOVA and linear regression.
+  ### Statistics 
+*2021 – 2023 – Institut Agro Dijon, Dijon, France*   
+Student Profile: Master 1 Agricultural Engineering 
+Total Teaching Hours: 40 hours  
+Role: Teaching Assistant 
 
 ---
 
 ## Others courses
 
 ### Computer Science  
-**Université Clermont-Auvergne**  
-*2017 – 2019 – Clermont-Ferrand, France*  
-- **Course**: Introduction to Computer Science (24 hours in Bachelor's Degree, 1st year, in Economics)  
-  *Topics*: Introduction to the university's digital environment (ENT). Use of word processing and presentation tools.
+*2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
+Student Profile: Bachelor students in Economic (1st Year) 
+Total Teaching Hours: 24 hours  
+Role: University Tutor
+
