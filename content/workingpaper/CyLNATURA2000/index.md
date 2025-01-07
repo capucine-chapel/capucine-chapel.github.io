@@ -1,11 +1,11 @@
 ---
-title: "How Much is a Direct and Indirect Access to a Park Worth? An Application for Single-family Houses using a Causal Spatio-temporal Matching Approach"
+title: "Economic evaluation of the benefits of the Natura 2000 network in “Castilla y Leon” (Spain) through rural tourism"
 authors:
-- Jean Dubé
 - admin
-- Julie Le Gallo
+- Coro Chasco
 - Mohamed Hilal
-- François Des Rosiers
+- Julie Le Gallo
+- Javier Velazquez
 date: ""
 doi: ""
 
@@ -21,16 +21,18 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Urban parks and green spaces are well known for their positive social and environmental impacts so that proximity to such infrastructures is usually internalized into higher real estate values. This paper proposes a careful spatio-temporal causal identification strategy to measure the willingness-to-pay (WTP) of exposure to different types of parks with particular attention on spatial confounding. Based on single-family house transactions in Québec City between 2004 and 2020, the estimation results suggest that the price premium differs according to the types of parks, proximity, and submarkets. The submarket of the first quantile transaction price displays a negative price premium, while a positive premium is found for the last quantile sale price, suggesting the presence of environmental inequities.
+abstract: The implementation of biodiversity protection initiatives such as the Natura 2000 network requires a trade-off between the ecosystem services generated and the costs and restrictions encountered by local populations and authorities. Using a doubly robust estimator, we conduct a causal economic evaluation of the impact of these protected areas in the Spanish region of “Castilla y Leon”. Through the prism of nature-based tourism, we show that individuals positively value the areas inside the Natura 2000 network. Therefore, the implementation of such an initiative leads to the creation of value in the growing nature-based market. These results have important implications for tourism stakeholders, public policies, and managers of Natura 2000 protected areas.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Econometric models
-- Housing
-- Real estate
-- Spatial Statistics
+- Natura 2000
+- Doubly robust
+- Nature-based tourism (NBT)
+- “Castilla y Leon”
+- Augmented Inverse Probability Weighting (AIPW)
+- Revealed preference approach
 featured: true
 
 #links:
@@ -67,4 +69,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
