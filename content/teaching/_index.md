@@ -26,10 +26,11 @@ type: page
 ---
 ## Economics courses
 
-### Behavioral Economics  
-**University Paris-Est Créteil**  
-*2024 – Créteil, France*  
-- **Course**: Intertemporal Behavior and Choices (27 hours in Economics Bachelor's 3rd Year)
+### Microeconomics: Intertemporal Behavior and Choices 
+*2024 – University Paris-Est Créteil, Créteil, France*   
+Degree Level: Undergraduate (Economics Bachelor's 3rd Year)  
+Hours: 30 hours  
+Role: Teaching Assistant
 
 ### Microeconomics  
 **Université Clermont-Auvergne**  
