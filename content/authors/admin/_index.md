@@ -147,7 +147,7 @@ skills:
       - name: R
         description: ''
         percent: 95
-        icon: custom/r-svgrepo-com
+        icon: fab/r-project
       - name: STATA 
         description: ''
         percent: 80
