@@ -59,7 +59,7 @@ sections:
       filters:
         folders:
           - workingpaper
-        featured_only: false
+        exclude_featured: false
     design:
       view: citation
 #  - block: collection
