@@ -52,7 +52,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: citation  
   - block: collection
     content:
       title: Featured Publications
