@@ -2,6 +2,12 @@
 title: "Chapter 4: The Role of Stackeholders in Sustainable Electrification"
 authors:
 - admin
+editors:
+  - "Thomas Walker"
+  - "Moein Karami"
+  - "Akram Sadati"
+book_title: "Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition"
+publisher: "Palgrave-Macmillan"
 date: ""
 doi: ""
 
