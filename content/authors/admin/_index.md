@@ -147,7 +147,7 @@ skills:
       - name: R
         description: ''
         percent: 95
-        icon: fab/r-project
+        icon: custom/r-svgrepo-com
       - name: STATA 
         description: ''
         percent: 80
@@ -167,7 +167,7 @@ skills:
       - name: Board game
         description: ''
         percent: 60
-        icon: custom/dice-outline-com
+        icon: custom/dice-outline-svgrepo-com
       - name: Tennis
         description: ''
         percent: 100
