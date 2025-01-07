@@ -25,6 +25,7 @@ type: page
 
 ---
 ## Economics courses
+---
 
 ### Microeconomics: Intertemporal Behavior and Choices 
 *2024 – University Paris-Est Créteil, Créteil, France*   
@@ -45,8 +46,8 @@ Total Teaching Hours: 18 hours
 Role: University Tutor
 
 ---
-
 ## Quantitative courses
+---
 
 ### Econometrics  
 *2021 – 2023 – Université Bourgogne Franche-Comté, Dijon, France*   
@@ -54,15 +55,15 @@ Student Profile: Bachelor students in Economics (3rd Year)
 Total Teaching Hours: 90 hours  
 Role: Teaching Assistant
 
-  ### Statistics 
+### Statistics 
 *2021 – 2023 – Institut Agro Dijon, Dijon, France*   
 Student Profile: Master 1 Agricultural Engineering 
 Total Teaching Hours: 40 hours  
 Role: Teaching Assistant 
 
 ---
-
 ## Others courses
+---
 
 ### Computer Science  
 *2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
