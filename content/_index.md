@@ -58,11 +58,10 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - working_paper
+          - workingpaper
         featured_only: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
 #  - block: collection
 #    content:
 #      title: Recent Publications
