@@ -1,12 +1,9 @@
 ---
-title: "How Much is a Direct and Indirect Access to a Park Worth? An Application for Single-family Houses using a Causal Spatio-temporal Matching Approach"
+title: "What drives urban green satisfaction in major European cities? A life satisfaction approach"
 authors:
-- Jean Dubé
 - admin
-- Julie Le Gallo
-- Mohamed Hilal
-- François Des Rosiers
-date: "2023-11-01T00:00:00Z"
+- Sophie Legras
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,16 +18,18 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Urban parks and green spaces are well known for their positive social and environmental impacts so that proximity to such infrastructures is usually internalized into higher real estate values. This paper proposes a careful spatio-temporal causal identification strategy to measure the willingness-to-pay (WTP) of exposure to different types of parks with particular attention on spatial confounding. Based on single-family house transactions in Québec City between 2004 and 2020, the estimation results suggest that the price premium differs according to the types of parks, proximity, and submarkets. The submarket of the first quantile transaction price displays a negative price premium, while a positive premium is found for the last quantile sale price, suggesting the presence of environmental inequities.
+abstract: This study aims to identify the determinants of satisfaction with green spaces among residents of 72 European cities through a life satisfaction approach using Eurobarometer survey data in 2019 and the green land cover of the Urban Atlas. Using a linear probability model, we regress the satisfaction of city dwellers with regard to green spaces on indicators of availability and accessibility of green spaces at the city level, both in stock and in variation. We show that, in general, satisfaction with green spaces is determined by both their availability and, even more importantly, their accessibility. Furthermore, satisfaction is not driven by the current level of these two indicators, but rather by their improvement since 2012. We also identify heterogeneities in the determinants of satisfaction according to the socio-demographic characteristics of the individuals. In particular, individuals with financial difficulties or children value only the variation of the dimension of accessibility of green spaces whilst individuals who have not always lived in their current city of residence are also impacted by the current stock of accessibility. These results provide an indication of the dimensions to be prioritised for current and future public policies in favour of green spaces.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Econometric models
-- Housing
-- Real estate
-- Spatial Statistics
+- Life Satisfaction
+- Quality of life
+- Urban Green Spaces
+- Subjective Well-Being
+- Eurobarometer
+- Green satisfaction
 featured: true
 
 #links:
@@ -42,7 +41,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622009'
 url_video: ''
 
 # Featured image
