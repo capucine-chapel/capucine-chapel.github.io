@@ -1,4 +1,4 @@
---
+---
 title: "How Much is a Direct and Indirect Access to a Park Worth? An Application for Single-family Houses using a Causal Spatio-temporal Matching Approach"
 authors:
 - Jean Dubé
@@ -67,4 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
