@@ -55,10 +55,10 @@ sections:
       view: citation  
   - block: collection
     content:
-      title: Featured Publications
+      title: Working Papers
       filters:
         folders:
-          - publication
+          - working_paper
         featured_only: true
     design:
       view: article-grid
