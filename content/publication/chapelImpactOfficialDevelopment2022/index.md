@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*World Development, 152*(1)"
+publication: "*World Development, 152*(105784)"
 publication_short: ""
 
 abstract: While the African continent has one of the largest renewable energy potentials in the world, it remains the most deprived region for access to electricity.Official development agencies can provide the funds and experience necessary for the sustainable development of this sector to those countries that suffer from limited domestic resources. We estimate the impact of renewable energy aid projects implemented in 19 sub-Saharan African countries on access to electricity for communities in the region. By combining georeferenced data from aid projects in renewable energy from AidData and survey data from the Afrobarometer, we find, using different propensity score matching methods, a positive and significant impact of these projects on electrification of communities. A comparison with the same sample on non-renewable energy projects shows a better efficiency of eco-friendly projects. However, the effectiveness of these projects is heterogeneous and depends greatly on the type of donor, the location, and the initial level of development. Our results contribute to the scholarly debate on aid effectiveness and provide important political implications. Indeed, they suggest that international donors should favour sending funds for renewable energy projects in countries and regions lacking electrification as these funds contribute to better access to electricity while promoting environmentally friendly technologies.
@@ -26,7 +26,11 @@ abstract: While the African continent has one of the largest renewable energy po
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Renewable energy
+- Official development assistance
+- Electrification
+- Propensity scores matching
+- Sub-Saharan Africa
 featured: false
 
 # links:
