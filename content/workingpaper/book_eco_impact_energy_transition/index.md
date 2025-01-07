@@ -2,6 +2,12 @@
 title: "Chapter 6 : Economic Impact of Sustainable Electrification"
 authors:
 - admin
+editors:
+  - "Thomas Walker"
+  - "Moein Karami"
+  - "Akram Sadati"
+book_title: "Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition"
+publisher: "Palgrave-Macmillan"
 date: ""
 doi: ""
 
@@ -11,7 +17,7 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
