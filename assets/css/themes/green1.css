@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: Custom (#97a189) */
+:root {
+    --color-primary-50: 245 247 244;  /* Très clair */
+    --color-primary-100: 225 229 222; /* Clair */
+    --color-primary-200: 205 211 201; /* Plus clair */
+    --color-primary-300: 186 193 180; /* Moyen */
+    --color-primary-400: 166 176 159; /* Ton de base modifié */
+    --color-primary-500: 151 161 137; /* Ton principal (#97a189) */
+    --color-primary-600: 129 139 116; /* Plus foncé */
+    --color-primary-700: 107 116 96;  /* Foncé */
+    --color-primary-800: 85 94 76;    /* Très foncé */
+    --color-primary-900: 63 71 57;    /* Profond */
+    --color-primary-950: 41 48 37;    /* Presque noir */
+  }
