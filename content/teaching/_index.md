@@ -24,7 +24,7 @@ type: page
 ---
 
 ---
-## <span style="color: #007BFF;">Economics courses</span>
+## <span style="color: #97a187;">Economics courses</span>
 ---
 
 ### Application seminar: Territorial economics
@@ -54,7 +54,7 @@ type: page
 </div>
 
 ---
-## Quantitative courses
+## <span style="color: #97a187;">Quantitative courses</span>
 ---
 
 ### Econometrics  
@@ -70,7 +70,7 @@ type: page
 - Role: Teaching Assistant 
 
 ---
-## Other courses
+## <span style="color: #97a187;">Other courses</span>
 ---
 
 ### Computer Science  
