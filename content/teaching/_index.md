@@ -23,7 +23,7 @@ type: page
 #      columns: 1
 ---
 
-<div class="section-box">
+---
 ## Economics courses
 ---
 
