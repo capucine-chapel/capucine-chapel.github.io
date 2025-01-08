@@ -20,8 +20,8 @@ publishDate: "2024-11-30T00:00:00Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Chapter in the book *Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition*, Palgrave-Macmillan, edited by Thomas Walker, Moein Karami, and Akram Sadati - under revision."
-publication_short: "Palgrave-Macmillan"
+publication: "Chapter in the book *Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition*, Palgrave-Macmillan, edited by Thomas Walker, Moein Karami, and Akram Sadati - under revision"
+publication_short: "Chapter in the book *Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition*, Palgrave-Macmillan, edited by Thomas Walker, Moein Karami, and Akram Sadati - under revision"
 
 abstract: "This chapter examines the economic impacts of electrification and its energy transition through a literature review, concrete examples and statistical analyses. At the macroeconomic level, the energy transition has a profound influence on energy security, reducing dependencies while creating new vulnerabilities, transforming the job market with the rise of green sectors and the challenges of reconversion, and redefining the relationship between energy and economic growth in a context of opportunities and uncertainties. At the microeconomic level, it affects households and businesses differently depending on the context: in developed countries, the emphasis is on combating fuel poverty, while in developing countries, sustainable electrification remains an essential lever for reducing energy poverty. Finally, the chapter explores the strategic transformations of the financial, real estate and insurance sectors, which play an important role in financing and adapting to this global transition."
 

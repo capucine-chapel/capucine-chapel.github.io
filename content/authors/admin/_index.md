@@ -228,7 +228,7 @@ awards:
 
 I am a Post-Doctoral Fellow in Economics at [CERDI](https://cerdi.uca.fr/#/) since October 2024.
 
-I am on the 2024/2025 job market.
+I am on the 2025/2026 job market.
 
 My research focuses on the analysis of sustainable development trajectories, with the aim of understanding the mechanisms, challenges and opportunities for steering societies towards a more sustainable future. My research falls within the fields of environmental, development and urban economics.
 
