@@ -179,13 +179,13 @@ skills:
 
 languages:
   - name: French
-    level: Native
+    description: Native speaker
   - name: English
-    level: C1 (Proficient)
+    description: Fluent, proficient in academic and professional contexts
   - name: German
-    level: A2 (Elementary)
+    description: Basic conversational skills
   - name: Spanish
-    level: A1 (Beginner)
+    description: Beginner level, basic understanding
 
 # Awards.
 #   Add/remove as many awards below as you like.
