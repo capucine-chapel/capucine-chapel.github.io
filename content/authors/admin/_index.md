@@ -164,13 +164,13 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 'French: Native'
+      - name: 'French: *Native*'
         percent: 100
-      - name: 'English: Fluent'
+      - name: 'English: *Fluent*'
         percent: 90
-      - name: 'German: Elementary'
+      - name: 'German: *Elementary*'
         percent: 25
-      - name: 'Spanish: Beginner'
+      - name: 'Spanish: *Beginner*'
         percent: 10
   - name: Hobbies
     color: '#eeac02'
