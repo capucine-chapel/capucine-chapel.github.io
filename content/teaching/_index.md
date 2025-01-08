@@ -5,7 +5,7 @@ type: page
 #type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '1rem'
 
 
 #cascade:
