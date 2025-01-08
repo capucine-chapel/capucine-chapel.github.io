@@ -183,7 +183,7 @@ skills:
       - name: English
         description: Fluent, proficient in academic and professional contexts
       - name: German
-      description: Basic conversational skills
+        description: Basic conversational skills
       - name: Spanish
         description: Beginner level, basic understanding
 
