@@ -1,0 +1,7 @@
+.section-box {
+    border: 2px solid rgb(var(--color-primary-500)); /* Utilise votre couleur principale */
+    border-radius: 8px; /* Ajoute des coins arrondis */
+    padding: 20px; /* Ajoute de l'espace intérieur */
+    margin-bottom: 20px; /* Ajoute un espacement entre les sections */
+    background-color: rgb(var(--color-primary-50)); /* Couleur d'arrière-plan légère */
+  }

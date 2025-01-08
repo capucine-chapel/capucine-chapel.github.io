@@ -23,7 +23,7 @@ type: page
 #      columns: 1
 ---
 
----
+<div class="section-box">
 ## Economics courses
 ---
 
@@ -32,6 +32,7 @@ type: page
 - Student Profile: Master 2 Territorial Economics
 - Total Teaching Hours: 8 hours  
 - Role: Lecturer
+
 
 ### Microeconomics: Intertemporal Behavior and Choices 
 *2024 – University Paris-Est Créteil, Créteil, France* 
@@ -50,6 +51,7 @@ type: page
 - Student Profile: Bachelor students in Economic (1st Year) 
 - Total Teaching Hours: 18 hours  
 - Role: University Tutor
+</div>
 
 ---
 ## Quantitative courses
