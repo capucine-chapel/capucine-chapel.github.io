@@ -176,6 +176,16 @@ skills:
     #    description: ''
     #    percent: 80
     #    icon: camera
+    - names: Languages
+    items:
+      - name: French
+        percent: 100
+      - name: English
+        percent: 90
+      - name: German
+      percent: 25
+      - name: Spanish
+        percent: 10
 
 
 
