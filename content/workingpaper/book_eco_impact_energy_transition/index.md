@@ -8,11 +8,11 @@ editors:
   - "Akram Sadati"
 book_title: "Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition"
 publisher: "Palgrave-Macmillan"
-date: "2024-11-30T00:00:00Z"
+date: "Palgrave-Macmillan"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "Palgrave-Macmillan"
+publishDate: "2024-11-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
