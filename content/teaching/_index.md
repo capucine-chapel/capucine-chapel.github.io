@@ -28,13 +28,15 @@ type: page
 ---
 
 ### Application seminar: Territorial economics
-*2025 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
+*2025 – Université Clermont-Auvergne, Clermont-Ferrand, France*  
+
 Student Profile: Master 2 Territorial Economics
 Total Teaching Hours: 8 hours  
 Role: Lecturer
 
 ### Microeconomics: Intertemporal Behavior and Choices 
-*2024 – University Paris-Est Créteil, Créteil, France*   
+*2024 – University Paris-Est Créteil, Créteil, France* 
+  
 Student Profile: Bachelor students in Economics (3rd Year) 
 Total Teaching Hours: 30 hours  
 Role: Teaching Assistant
