@@ -23,9 +23,9 @@ type: page
 #      columns: 1
 ---
 
-<div style="background-color: #e8f5e9; padding: 10px; border-radius: 5px;">
+---
 ## Economics courses
-</div>
+---
 
 ### Application seminar: Territorial economics
 *2025 – Université Clermont-Auvergne, Clermont-Ferrand, France*  
