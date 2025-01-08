@@ -24,7 +24,7 @@ type: page
 ---
 
 ---
-## <span style="color: var(--color-primary-500);">Economics courses</span>
+## <span style="color: #007BFF;">Economics courses</span>
 ---
 
 ### Application seminar: Territorial economics
