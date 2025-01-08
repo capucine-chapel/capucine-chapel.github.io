@@ -20,8 +20,8 @@ publishDate: "2024-11-30T00:00:00Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Chapter in the book *Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition*, Palgrave-Macmillan, edited by Thomas Walker, Moein Karami, and Akram Sadati - under revision"
-publication_short: "Chapter in the book *Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition*, Palgrave-Macmillan, edited by Thomas Walker, Moein Karami, and Akram Sadati - under revision"
+publication: 'Chapter in the book "Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition", *Palgrave-Macmillan*, edited by Thomas Walker, Moein Karami, and Akram Sadati - *Under revision*'
+publication_short: 'Chapter in the book "Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition", *Palgrave-Macmillan*, edited by Thomas Walker, Moein Karami, and Akram Sadati - *Under revision*'
 
 abstract: In a global context marked by energy transition, electrification through renewable energies represents a major challenge. This chapter draws on recent studies and concrete examples to analyze the essential roles of the players involved, be they policymakers, the private sector, local communities or Non-Governmental Organizations (NGOs). Public authorities establish regulatory frameworks and promote international cooperation to facilitate this transformation, while businesses innovate and mobilize financing to accelerate the adoption of sustainable solutions. Community buy-in and citizen involvement strengthen the acceptance of these sustainable electrification projects, helping to transform individual behavior. As for NGOs, they play a catalytic role, raising awareness and actively supporting transition initiatives. This chapter looks at the challenges faced by each stakeholder, the strategies put in place and the obstacles likely to hinder their effectiveness in this journey towards greener energy.
 
