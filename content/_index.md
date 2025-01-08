@@ -61,7 +61,7 @@ sections:
         folders:
           - workingpaper
         exclude_featured: false
-      pagination: false
+      count: 10
     design:
       view: citation 
 #  - block: collection
