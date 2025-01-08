@@ -179,13 +179,13 @@ skills:
 
 languages:
   - name: French
-    percent: 100
+    level: Native
   - name: English
-    percent: 85
+    level: C1 (Proficient)
   - name: German
-    percent: 30
+    level: A2 (Elementary)
   - name: Spanish
-    percent: 10     
+    level: A1 (Beginner)
 
 # Awards.
 #   Add/remove as many awards below as you like.

@@ -1,7 +1,3 @@
-More particularly, the marginal willingness to
-pay for a location in a Natura 2000 area is on average 1.28e
-
-
 ---
 title: Teaching
 summary: My courses
