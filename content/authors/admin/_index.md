@@ -174,7 +174,7 @@ skills:
         icon: custom/tennis-svgrepo-com
   - names: Languages
     items:
-      - name: 'French: Native (TOIEC: 900/990)'
+      - name: 'French: Native'
         percent: 100
       - name: 'English: Fluent'
         percent: 90
