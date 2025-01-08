@@ -3,7 +3,7 @@ title: Working Papers & Work in progress
 cms_exclude: true
 
 # View.
-view: compact 
+view: citation 
 
 # Optional header image (relative to `static/media/` folder).
 banner:

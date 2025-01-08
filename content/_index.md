@@ -61,7 +61,7 @@ sections:
           - workingpaper
         exclude_featured: false
     design:
-      view: compact 
+      view: citation 
 #  - block: collection
 #    id: talks
 #    content:
