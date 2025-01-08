@@ -1,84 +1,52 @@
 ---
-title: Teaching
-summary: My courses
+title: 'Teaching'
+date: 2023-10-24
 type: page
-#type: landing
 
 design:
-  spacing: '1rem'
+  spacing: '5rem'
 
+# Page sections
+sections:
+  - block: resume-experience
+    content:
+      title: "Teaching Experience"
+      items:
+        - organization: Université Clermont-Auvergne
+          position: Lecturer
+          date: 2025
+          location: Clermont-Ferrand, France
+          description: |
+            - **Application seminar: Territorial economics**
+            - Student Profile: Master 2 Territorial Economics
+            - Total Teaching Hours: 8 hours
 
-#cascade:
-#  - _target:
-#      kind: page
-#    params:
-#      show_breadcrumb: true
+        - organization: University Paris-Est Créteil
+          position: Teaching Assistant
+          date: 2024
+          location: Créteil, France
+          description: |
+            - **Microeconomics: Intertemporal Behavior and Choices**
+            - Student Profile: Bachelor students in Economics (3rd Year)
+            - Total Teaching Hours: 30 hours
 
-#sections:
-#  - block: collection
-#    id: teaching
-#   content:
-#      title: Teaching
-#      filters:
-#        folders:
-#          - teaching
-#    design:
-#      view: list
-#      columns: 1
+        - organization: Université Bourgogne Franche-Comté
+          position: Teaching Assistant
+          date: 2021 – 2023
+          location: Dijon, France
+          description: |
+            - **Econometrics**
+            - Student Profile: Bachelor students in Economics (3rd Year)
+            - Total Teaching Hours: 90 hours
+
+        - organization: Université Clermont-Auvergne
+          position: University Tutor
+          date: 2017 – 2019
+          location: Clermont-Ferrand, France
+          description: |
+            - **Macroeconomics: Major functions and macroeconomic equilibrium**
+            - Student Profile: Bachelor students in Economics (1st Year)
+            - Total Teaching Hours: 18 hours
+    design:
+      date_format: "YYYY"  # Format de la date
 ---
-
----
-### <span style="color: #97a187;">Economics courses</span>
----
-
-#### Application seminar: Territorial economics
-*2025 – Université Clermont-Auvergne, Clermont-Ferrand, France*  
-- Student Profile: Master 2 Territorial Economics
-- Total Teaching Hours: 8 hours  
-- Role: Lecturer
-
-
-#### Microeconomics: Intertemporal Behavior and Choices 
-*2024 – University Paris-Est Créteil, Créteil, France* 
-- Student Profile: Bachelor students in Economics (3rd Year) 
-- Total Teaching Hours: 30 hours  
-- Role: Teaching Assistant
-
-#### Microeconomics: Producer and consumer theory
-*2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
-- Student Profile: Bachelor students in Economic and Social Administration (2nd Year) 
-- Total Teaching Hours: 22 hours  
-- Role: University Tutor
-
-#### Macroeconomics : Major functions and macroeconomic equilibrium  
-*2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
-- Student Profile: Bachelor students in Economic (1st Year) 
-- Total Teaching Hours: 18 hours  
-- Role: University Tutor
-
----
-### <span style="color: #97a187;">Quantitative courses</span>
----
-
-#### Econometrics  
-*2021 – 2023 – Université Bourgogne Franche-Comté, Dijon, France*   
-- Student Profile: Bachelor students in Economics (3rd Year) 
-- Total Teaching Hours: 90 hours  
-- Role: Teaching Assistant
-
-#### Statistics 
-*2021 – 2023 – Institut Agro Dijon, Dijon, France*   
-- Student Profile: Master 1 Agricultural Engineering 
-- Total Teaching Hours: 40 hours  
-- Role: Teaching Assistant 
-
----
-### <span style="color: #97a187;">Other courses</span>
----
-
-#### Computer Science  
-*2017 – 2019 – Université Clermont-Auvergne, Clermont-Ferrand, France*   
-- Student Profile: Bachelor students in Economic (1st Year) 
-- Total Teaching Hours: 24 hours  
-- Role: University Tutor
-
