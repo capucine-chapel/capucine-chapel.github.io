@@ -176,16 +176,16 @@ skills:
     #    description: ''
     #    percent: 80
     #    icon: camera
-    - name: Languages
+  - name: Languages
     items:
-  - name: French
-    description: Native speaker
-  - name: English
-    description: Fluent, proficient in academic and professional contexts
-  - name: German
-    description: Basic conversational skills
-  - name: Spanish
-    description: Beginner level, basic understanding
+      - name: French
+        description: Native speaker
+      - name: English
+        description: Fluent, proficient in academic and professional contexts
+      - name: German
+      description: Basic conversational skills
+      - name: Spanish
+        description: Beginner level, basic understanding
 
 
 # Awards.
