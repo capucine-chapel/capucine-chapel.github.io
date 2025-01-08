@@ -8,7 +8,7 @@ editors:
   - "Akram Sadati"
 book_title: "Wiring the Future: Exploring Challenges and Opportunities in the Sustainable Energy Transition"
 publisher: "Palgrave-Macmillan"
-date: "Palgrave-Macmillan"
+date: "2024-11-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
