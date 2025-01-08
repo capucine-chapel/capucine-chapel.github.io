@@ -181,11 +181,11 @@ skills:
       - name: French
         description: Native speaker
       - name: English
-        description: Fluent, proficient in academic and professional contexts
+        description: Fluent
       - name: German
-        description: Basic conversational skills
+        description: Elementary
       - name: Spanish
-        description: Beginner level, basic understanding
+        description: Beginner
 
 
 # Awards.
