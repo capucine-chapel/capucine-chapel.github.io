@@ -51,7 +51,6 @@ type: page
 - Student Profile: Bachelor students in Economic (1st Year) 
 - Total Teaching Hours: 18 hours  
 - Role: University Tutor
-</div>
 
 ---
 ## <span style="color: #97a187;">Quantitative courses</span>
