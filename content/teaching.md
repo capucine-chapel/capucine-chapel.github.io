@@ -1,7 +1,7 @@
 ---
 title: 'Teaching'
 date: 2023-10-24
-type: landing
+type: page
 
 design:
   spacing: '5rem'
