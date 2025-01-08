@@ -4,6 +4,10 @@ summary: My courses
 type: page
 #type: landing
 
+design:
+  spacing: '5rem'
+
+
 #cascade:
 #  - _target:
 #      kind: page
