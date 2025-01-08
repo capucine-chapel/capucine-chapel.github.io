@@ -160,6 +160,16 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+  - names: Languages
+    items:
+      - name: 'French: Native'
+        percent: 100
+      - name: 'English: Fluent'
+        percent: 90
+      - name: 'German: Elementary'
+        percent: 25
+      - name: 'Spanish: Beginner'
+        percent: 10
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -172,16 +182,7 @@ skills:
         description: ''
         percent: 100
         icon: custom/tennis-svgrepo-com
-  - names: Languages
-    items:
-      - name: 'French: Native'
-        percent: 100
-      - name: 'English: Fluent'
-        percent: 90
-      - name: 'German: Elementary'
-        percent: 25
-      - name: 'Spanish: Beginner'
-        percent: 10
+
 
 
 
