@@ -179,7 +179,7 @@ skills:
       - name: 'English: Fluent'
         percent: 90
       - name: 'German: Elementary'
-      percent: 25
+        percent: 25
       - name: 'Spanish: Beginner'
         percent: 10
 
