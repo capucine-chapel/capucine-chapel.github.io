@@ -68,7 +68,7 @@ type: page
 - Role: Teaching Assistant 
 
 ---
-## Others courses
+## Other courses
 ---
 
 ### Computer Science  
