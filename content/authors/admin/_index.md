@@ -160,7 +160,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - names: Languages
+  - names: 'Languages'
     items:
       - name: 'French: Native'
         percent: 100
