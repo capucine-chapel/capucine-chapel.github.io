@@ -55,11 +55,12 @@ sections:
       view: citation  
   - block: collection
     content:
-      title: Working Papers
+      title: Working Papers & Work in progress
       filters:
         folders:
           - workingpaper
         exclude_featured: false
+      pagination: false
     design:
       view: citation 
 #  - block: collection
