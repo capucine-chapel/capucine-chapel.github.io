@@ -172,19 +172,15 @@ skills:
         description: ''
         percent: 100
         icon: custom/tennis-svgrepo-com
-    #  - name: Photography
-    #    description: ''
-    #    percent: 80
-    #    icon: camera
-    - names: Languages
+  - names: Languages
     items:
-      - name: French
+      - name: 'French: Native (TOIEC: 900/990)'
         percent: 100
-      - name: English
+      - name: 'English: Fluent'
         percent: 90
-      - name: German
+      - name: 'German: Elementary'
       percent: 25
-      - name: Spanish
+      - name: 'Spanish: Beginner'
         percent: 10
 
 
