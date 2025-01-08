@@ -176,8 +176,8 @@ skills:
     #    description: ''
     #    percent: 80
     #    icon: camera
-
-languages:
+    - name: Languages
+    items:
   - name: French
     description: Native speaker
   - name: English
@@ -186,6 +186,7 @@ languages:
     description: Basic conversational skills
   - name: Spanish
     description: Beginner level, basic understanding
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
