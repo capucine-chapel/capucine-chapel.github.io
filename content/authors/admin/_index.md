@@ -164,7 +164,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Board game
+      - name: Board games
         description: ''
         percent: 60
         icon: custom/dice-outline-svgrepo-com
