@@ -1,5 +1,5 @@
 ---
-title: "What drives urban green satisfaction in major European cities? A life satisfaction approach"
+title: "Urban Green Satisfaction in European Cities: The Role of Availability, Accessibility, and Their Evolution"
 authors:
 - admin
 - Sophie Legras
@@ -24,12 +24,12 @@ abstract: This study aims to identify the determinants of satisfaction with gree
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Life Satisfaction
-- Quality of life
+- Green satisfaction
 - Urban Green Spaces
 - Subjective Well-Being
 - Eurobarometer
-- Green satisfaction
+- Accessibility
+- Availability
 featured: true
 
 #links:
