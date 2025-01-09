@@ -167,6 +167,7 @@ skills:
     items:
       - name: 'French: *Native*'
         percent: 100
+        icon: custom/french
       - name: 'English: *Fluent*'
         percent: 90
       - name: 'German: *Elementary*'
