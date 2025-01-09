@@ -93,7 +93,8 @@ work:
     date_end: ''
     summary: |2-
       - Theme: Volcano Economics
-      - Project PROXVOLC: "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
+      - Project : PROXVOLC "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
+      - Role: Project Leader
       - Collaboration: Pascale Phélinas, Michaël Goujon, Sébastien Marchand, and Johanna Choumert
   - position: Postdoctoral Researcher
     company_name: ERUDITE
@@ -103,7 +104,7 @@ work:
     date_end: 2024-09-30
     summary: |2-
       - Theme: Social Housing
-      - Project DYNAPUR 
+      - Project: "Housing Markets: Price Dynamics, Land Use Dynamics, Wealth Dynamics" within the Research Program "Land and Affordable Housing" of the Union Sociale pour l'Habitat and its partners.
       - Supervisors: Camille REGNIER and Kévin FOURREY
   - position: Ph.D. Researcher
     company_name: CESAER
