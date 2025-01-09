@@ -166,11 +166,9 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: 'French: *Native*'
-#        percent: 100
-        icon: custom/french
+        percent: 100
       - name: 'English: *Fluent*'
-#        percent: 90
-        icon: custom/english-flag
+        percent: 90
       - name: 'German: *Elementary*'
         percent: 25
       - name: 'Spanish: *Beginner*'
