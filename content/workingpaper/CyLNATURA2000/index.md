@@ -52,7 +52,7 @@ url_video: ''
 image:
   caption: 'Image credit: Créée par Microsoft Copilot'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
