@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30" width="600" height="300">
+  <!-- Fond blanc -->
+  <rect width="60" height="30" fill="white"/>
+  <!-- Croisillon diagonal noir -->
+  <polygon points="0,0 10,0 30,13 30,17 10,30 0,30" fill="black"/>
+  <polygon points="60,0 50,0 30,13 30,17 50,30 60,30" fill="black"/>
+  <polygon points="0,30 0,20 27,15 33,15 60,20 60,30" fill="black"/>
+  <polygon points="0,0 0,10 27,15 33,15 60,10 60,0" fill="black"/>
+  <!-- Croisillon diagonal blanc -->
+  <polygon points="0,0 7,0 30,12 30,18 7,30 0,30" fill="white"/>
+  <polygon points="60,0 53,0 30,12 30,18 53,30 60,30" fill="white"/>
+  <polygon points="0,30 0,23 27,15 33,15 60,23 60,30" fill="white"/>
+  <polygon points="0,0 0,7 27,15 33,15 60,7 60,0" fill="white"/>
+  <!-- Croix centrale noire -->
+  <rect x="0" y="13" width="60" height="4" fill="black"/>
+  <rect x="26" y="0" width="8" height="30" fill="black"/>
+</svg>

@@ -170,6 +170,7 @@ skills:
         icon: custom/french
       - name: 'English: *Fluent*'
         percent: 90
+        icon: custom/english-flag
       - name: 'German: *Elementary*'
         percent: 25
       - name: 'Spanish: *Beginner*'
