@@ -50,7 +50,7 @@ profiles:
 interests:
   - Environmental Economics
   - Urban & Territorial Economics
-  - Information Retrieval
+  - Development Economics
 
 education:
   - area: PhD in Environmental economics
