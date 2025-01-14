@@ -15,7 +15,7 @@ publishDate: "2024-11-30T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Submitted"
 publication_short: ""
 
 abstract: This study aims to identify the determinants of satisfaction with green spaces among residents of 72 European cities through a life satisfaction approach using Eurobarometer survey data in 2019 and the green land cover of the Urban Atlas. Using a linear probability model, we regress the satisfaction of city dwellers with regard to green spaces on indicators of availability and accessibility of green spaces at the city level, both in stock and in variation. We show that, in general, satisfaction with green spaces is determined by both their availability and, even more importantly, their accessibility. Furthermore, satisfaction is not driven by the current level of these two indicators, but rather by their improvement since 2012. We also identify heterogeneities in the determinants of satisfaction according to the socio-demographic characteristics of the individuals. In particular, individuals with financial difficulties or children value only the variation of the dimension of accessibility of green spaces whilst individuals who have not always lived in their current city of residence are also impacted by the current stock of accessibility. These results provide an indication of the dimensions to be prioritised for current and future public policies in favour of green spaces.

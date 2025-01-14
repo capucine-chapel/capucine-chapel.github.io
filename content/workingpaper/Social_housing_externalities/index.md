@@ -15,7 +15,7 @@ publishDate: "2024-11-30T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Mimeo"
 publication_short: ""
 
 abstract: In the face of the housing crisis and pressures on property prices, this article examines the impact of new social housing on apartment sale prices in metropolitan France from 2010 to 2022. Our findings show no significant effects on territorial attractiveness or revitalization, regardless of factors like neighborhood type, housing size, or financing. These results align with related studies in France and suggest policymakers should avoid overestimating the potential negative impact of new social housing, particularly in affluent areas. Furthermore, social housing renewal alone may not significantly enhance the attractiveness of disadvantaged areas without broader economic improvements.

@@ -18,7 +18,7 @@ publishDate: "2024-11-30T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to *Ecological Economics*"
+publication: "Submitted"
 publication_short: ""
 
 abstract: Urban parks and green spaces are well known for their positive social and environmental impacts so that proximity to such infrastructures is usually internalized into higher real estate values. This paper proposes a careful spatio-temporal causal identification strategy to measure the willingness-to-pay (WTP) of exposure to different types of parks with particular attention on spatial confounding. Based on single-family house transactions in Québec City between 2004 and 2020, the estimation results suggest that the price premium differs according to the types of parks, proximity, and submarkets. The submarket of the first quantile transaction price displays a negative price premium, while a positive premium is found for the last quantile sale price, suggesting the presence of environmental inequities.
