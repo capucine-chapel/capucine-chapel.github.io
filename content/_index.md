@@ -31,6 +31,8 @@ sections:
           size: cover
           position: center
           parallax: false
+          text:
+            color: black
 #  - block: markdown
 #     content:
 #       title: '📚 My Research'
