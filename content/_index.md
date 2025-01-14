@@ -21,7 +21,7 @@ sections:
     design:
       css_class: black
       background:
-        color: black
+        color: #121212
         image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -31,8 +31,6 @@ sections:
           size: cover
           position: center
           parallax: false
-      text:
-        color: black
 #  - block: markdown
 #     content:
 #       title: '📚 My Research'
