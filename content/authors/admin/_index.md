@@ -61,7 +61,7 @@ education:
       - Title: "_Three essays on the economic value of recreational amenities provided by green spaces_". 
       - Supervised by [Prof Julie Le Gallo](https://sites.google.com/site/legallopage/) and [Mohamed Hilal](https://cv.hal.science/mohamed-hilal).
       - Thesis Defense: December 8, 2023
-      - Jury Members: Florent Sari, Rosella Nicolini, Julien Salanié, Jeanne Dachary-Bernard, Vincent Viguié 
+      - Committee: Florent Sari, Rosella Nicolini, Julien Salanié, Jeanne Dachary-Bernard, Vincent Viguié 
       - Agreenium International Research School doctoral programme
       - Certified under the European Doctorate label
     button:
