@@ -94,7 +94,7 @@ work:
     summary: |2-
       - Theme: Volcano Economics
       - Project : PROXVOLC "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
-      - Role: Project Leader
+      - Role: Principal Investigator (105k)
       - Collaboration: Pascale Phélinas, Michaël Goujon, Sébastien Marchand, and Johanna Choumert
   - position: Postdoctoral Researcher
     company_name: ERUDITE
