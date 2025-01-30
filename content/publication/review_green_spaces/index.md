@@ -4,7 +4,7 @@ authors:
 - admin
 - Julie Le Gallo
 - Mohamed Hilal
-date: "2025-03-01"
+date: "2025-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,8 @@ publication_short: ""
 abstract: Green spaces provide a variety of ecosystem services to society and the environment. This paper provides an overview of the literature on the valuation of green spaces, focusing on their advantages and limitations. We conclude with a number of challenges ahead.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Green spaces provide a variety of ecosystem services to society and the environment. This paper provides an overview of the literature on the valuation of green spaces, focusing on their advantages and limitations. We conclude with a number of challenges ahead.
+
 
 tags:
 - Green spaces
