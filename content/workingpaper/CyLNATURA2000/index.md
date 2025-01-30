@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Créée par Microsoft Copilot'
+  caption: 'Image credit: Created by Microsoft Copilot'
   focal_point: ""
   preview_only: false
 
