@@ -41,7 +41,7 @@ design:
 #### Microeconomics: Intertemporal Behavior and Choices 
 *2024 – University Paris-Est Créteil, Créteil, France* 
 - Student Profile: Bachelor students in Economics (3rd Year) 
-- Total Teaching Hours: 30 hours  
+- Total Teaching Hours: 27 hours  
 - Role: Teaching Assistant
 
 #### Microeconomics: Producer and consumer theory
