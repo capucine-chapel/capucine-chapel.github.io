@@ -14,5 +14,5 @@ banner:
 ## 🎧 Podcast
 
 <audio controls>
-  <source src="uploads/postcast_aid_renewable_africa.mp3" type="audio/mpeg">
+  <source src="https://github.com/capucine-chapel/capucine-chapel.github.io/blob/main/static/uploads/postcast_aid_renewable_africa.mp3" type="audio/mpeg">
 </audio>
