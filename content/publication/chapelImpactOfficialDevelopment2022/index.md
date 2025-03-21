@@ -43,7 +43,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: https://www.sciencedirect.com/science/article/pii/S0305750X21003995?casa_token=eWOeyDCgxPQAAAAA:-VeAp7DepthqiEa30ZLF95qU6LHzkYdESjFG3jYYD70iVytTsRhDNxtXc5ovgD9JtaJDcml-Mio
-url_video: '/postcast_aid_renewable_africa.mp3'
+url_video: 'uploads/postcast_aid_renewable_africa.mp3'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
