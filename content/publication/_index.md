@@ -14,5 +14,5 @@ banner:
 ## 🎧 Podcast
 
 <audio controls>
-  <source src="https://github.com/capucine-chapel/capucine-chapel.github.io/blob/main/static/uploads/postcast_aid_renewable_africa.mp3" type="audio/mpeg">
+  <source src="https://soundcloud.com/capucine-chapel/impact-of-official-development-assistance-projects-for-renewable-energy-on-electrification-in-sub-saharan-africa" type="audio/mpeg">
 </audio>

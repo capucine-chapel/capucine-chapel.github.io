@@ -43,7 +43,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: https://www.sciencedirect.com/science/article/pii/S0305750X21003995?casa_token=eWOeyDCgxPQAAAAA:-VeAp7DepthqiEa30ZLF95qU6LHzkYdESjFG3jYYD70iVytTsRhDNxtXc5ovgD9JtaJDcml-Mio
-url_video: 'https://github.com/capucine-chapel/capucine-chapel.github.io/blob/main/static/uploads/postcast_aid_renewable_africa.mp3'
+url_video: 'https://soundcloud.com/capucine-chapel/impact-of-official-development-assistance-projects-for-renewable-energy-on-electrification-in-sub-saharan-africa'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
