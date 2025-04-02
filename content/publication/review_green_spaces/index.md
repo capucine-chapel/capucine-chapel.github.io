@@ -5,10 +5,10 @@ authors:
 - Julie Le Gallo
 - Mohamed Hilal
 date: "2025-03-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.17811/ebl.14.1.2025.63-74."
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2025-03-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,7 +16,7 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming in *Economics and Business Letters*"
+publication: "*Economics and Business Letters, 14*(1), 63-74"
 publication_short: ""
 
 abstract: Green spaces provide a variety of ecosystem services to society and the environment. This paper provides an overview of the literature on the valuation of green spaces, focusing on their advantages and limitations. We conclude with a number of challenges ahead.
@@ -34,7 +34,7 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
+url_pdf: 'https://reunido.uniovi.es/index.php/EBL/article/view/21740/16817'
 url_code: ''
 url_dataset: ''
 url_poster: ''
