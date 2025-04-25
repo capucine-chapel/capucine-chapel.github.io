@@ -31,17 +31,15 @@ tags:
 - Environmental gentrification
 featured: true
 
-#links:
-#- name: Custom Link
-#  url: http://example.org
+links:
+  - name: Research Brief
+    url: 'https://cerdi.uca.fr/version-francaise/actualites/toutes-les-actualites/zoom-sur-la-recherche/valorisation-des-espaces-verts-defis-economiques-et-implications-politiques#/admin'
 url_pdf: 'https://reunido.uniovi.es/index.php/EBL/article/view/21740/16817'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-- name: Research Brief
-url_source: 'https://cerdi.uca.fr/version-francaise/actualites/toutes-les-actualites/zoom-sur-la-recherche/valorisation-des-espaces-verts-defis-economiques-et-implications-politiques#/admin'
 url_video: ''
 
 # Featured image
