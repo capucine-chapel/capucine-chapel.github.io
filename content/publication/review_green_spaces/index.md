@@ -5,7 +5,7 @@ authors:
 - Julie Le Gallo
 - Mohamed Hilal
 date: "2025-03-01T00:00:00Z"
-doi: "https://doi.org/10.17811/ebl.14.1.2025.63-74."
+doi: "https://doi.org/10.17811/ebl.14.1.2025.63-74"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-01T00:00:00Z"
