@@ -40,6 +40,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
+- name: Research Brief
 url_source: 'https://cerdi.uca.fr/version-francaise/actualites/toutes-les-actualites/zoom-sur-la-recherche/valorisation-des-espaces-verts-defis-economiques-et-implications-politiques#/admin'
 url_video: ''
 
