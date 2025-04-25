@@ -33,17 +33,19 @@ tags:
 - Sub-Saharan Africa
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - name: Podcast
+    url: 'https://soundcloud.com/capucine-chapel/impact-of-official-development-assistance-projects-for-renewable-energy-on-electrification-in-sub-saharan-africa'
+  - name: Source article
+    url: 'https://www.sciencedirect.com/science/article/pii/S0305750X21003995?casa_token=eWOeyDCgxPQAAAAA:-VeAp7DepthqiEa30ZLF95qU6LHzkYdESjFG3jYYD70iVytTsRhDNxtXc5ovgD9JtaJDcml-Mio'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://www.sciencedirect.com/science/article/pii/S0305750X21003995?casa_token=eWOeyDCgxPQAAAAA:-VeAp7DepthqiEa30ZLF95qU6LHzkYdESjFG3jYYD70iVytTsRhDNxtXc5ovgD9JtaJDcml-Mio
-url_video: 'https://soundcloud.com/capucine-chapel/impact-of-official-development-assistance-projects-for-renewable-energy-on-electrification-in-sub-saharan-africa'
+url_video: ''
+url_source: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
