@@ -96,6 +96,9 @@ work:
       - Project : PROXVOLC "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
       - Role: Principal Investigator (105k)
       - Collaboration: Pascale Phélinas, Michaël Goujon, Sébastien Marchand, and Johanna Choumert
+    button:
+      text: 'Read Project'
+      url: 'https://cap2025.fr/fr/challenges-scientifiques/risques-naturels-catastrophiques-et-vulnerabilite-socio-economique/nos-projets/expliquer-la-presence-de-population-a-proximite-des-volcans-impacts-indirects-des-eruptions-volcaniques-2idev-proxvolc-1' 
   - position: Postdoctoral Researcher
     company_name: ERUDITE
     company_url: ''
