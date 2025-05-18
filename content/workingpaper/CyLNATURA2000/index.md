@@ -18,7 +18,7 @@ publishDate: "2024-11-30T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "- under revision"
+publication: "Under revision"
 publication_short: ""
 
 abstract: The implementation of biodiversity protection initiatives such as the Natura 2000 network requires a trade-off between the ecosystem services generated and the costs and restrictions encountered by local populations and authorities. Using a doubly robust estimator, we conduct a causal economic evaluation of the impact of these protected areas in the Spanish region of “Castilla y Leon”. Through the prism of nature-based tourism, we show that individuals positively value the areas inside the Natura 2000 network. Therefore, the implementation of such an initiative leads to the creation of value in the growing nature-based market. These results have important implications for tourism stakeholders, public policies, and managers of Natura 2000 protected areas.
