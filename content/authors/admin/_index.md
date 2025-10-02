@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:capucinechapel.pro@gmail.com'
+    url: 'mailto:capucine.chapel@inrae.fr'
     label: E-mail Me
  # - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
@@ -91,7 +91,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-10-01
-    date_end: ''
+    date_end: '2025-08-31'
     summary: |2-
       - Theme: Volcano Economics
       - Project : PROXVOLC "Explaining population presence near volcanoes: indirect impacts of volcanic eruptions"
