@@ -241,10 +241,16 @@ awards:
 
 ## About Me
 
-I am a Post-Doctoral Fellow in Economics at [CERDI](https://cerdi.uca.fr/#/) since October 2024.
+I am a Research Scientist at [INRAE](https://www.inrae.fr/en) (French National Research Institute for Agriculture, Food and Environment) within the [UMR Herbivores](https://www.umrh.inrae.fr/internet/public/en/).
 
-I am on the 2025/2026 job market.
+**Research fields**
+- Environmental economics  
+- Agricultural economics  
+- Regional economics  
+- Developpment economics  
 
-My research focuses on the analysis of sustainable development trajectories, with the aim of understanding the mechanisms, challenges and opportunities for steering societies towards a more sustainable future. My research falls within the fields of environmental, development and urban economics.
+**Methods**
+Causal inference, spatial analysis, non-market valuation, impact evaluation, microeconometrics
 
-I have a strong interest in applied microeconometrics, spatial analysis and data processing.
+**Research topics**
+Ecosystem services, livestock farming, Green spaces, Renewable energy, Social housing, Volcanic eruptions
