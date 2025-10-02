@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Post-doctoral Fellow
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CERDI, Université Clermont Auvergne, CNRS, IRD
-    url: https://cerdi.uca.fr/#/admin
+  - name: Université Clermont Auvergne, INRAE, VetAgro Sup, UMR Herbivores
+    url: https://www.umrh.inrae.fr/internet/public/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
