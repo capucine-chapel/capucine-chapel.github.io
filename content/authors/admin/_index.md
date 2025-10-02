@@ -49,7 +49,8 @@ profiles:
 
 interests:
   - Environmental Economics
-  - Urban & Territorial Economics
+  - Agricultural economics
+  - Regional Economics
   - Development Economics
 
 education:
@@ -243,14 +244,11 @@ awards:
 
 I am a Research Scientist at [INRAE](https://www.inrae.fr/en) (French National Research Institute for Agriculture, Food and Environment) within the [UMR Herbivores](https://www.umrh.inrae.fr/internet/public/en/).
 
-**Research fields**
-- Environmental economics  
-- Agricultural economics  
-- Regional economics  
-- Developpment economics  
+**Research fields**  
+Environmental economics, Agricultural economics, Regional economics, Developpment economics  
 
-**Methods**
+**Methods**  
 Causal inference, spatial analysis, non-market valuation, impact evaluation, microeconometrics
 
-**Research topics**
+**Research topics**  
 Ecosystem services, livestock farming, Green spaces, Renewable energy, Social housing, Volcanic eruptions
