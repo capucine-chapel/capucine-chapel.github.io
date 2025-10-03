@@ -33,7 +33,7 @@ tags:
 - Causal analysis
 - Propensity score matching
 - Spatio-temporal analysis
-featured: false
+featured: true
 
 links:
 #- name: Custom Link
