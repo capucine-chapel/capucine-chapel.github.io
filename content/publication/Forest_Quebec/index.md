@@ -11,7 +11,7 @@ date: "2025-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jenvman.2025.127417"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-01T00:00:00Z"
+publishDate: "2025-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
