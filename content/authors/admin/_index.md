@@ -86,6 +86,14 @@ education:
       - Macroeconomics
       - Statistics
 work:
+  - position: Research Scientist
+    company_name: INRAE - UMR Herbivores
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-09-01
+    date_end: ''
+    summary: |2-
+      - Theme: Economic valuation of ecosystem services from livestock farming
   - position: Postdoctoral Researcher
     company_name: CERDI
     company_url: ''
