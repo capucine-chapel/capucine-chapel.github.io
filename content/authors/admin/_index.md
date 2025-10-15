@@ -37,7 +37,7 @@ profiles:
  #   url: https://twitter.com/GetResearchDev
   - icon: academicons/cv
     icon_pack: ai
-    url: static/uploads/resume.pdf
+    url: /uploads/resume.pdf
   - icon: brands/github
     url: https://github.com/capucine-chapel
   - icon: brands/linkedin
